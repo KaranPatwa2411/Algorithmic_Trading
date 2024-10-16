@@ -17,8 +17,10 @@ This project focuses on intraday trading using the Generalized Autoregressive Co
 ## Repository Structure
 
 - `Algorithmic_Trading_Machine_Learning_Quant_Strategies.ipynb`: Main Jupyter notebook containing the code and analysis for all three projects.
-- `data/`: Folder containing the data files used in the projects, such as historical stock prices and sentiment data.
 - `README.md`: This file, providing an overview of the projects and instructions for setup.
+- `sentiment_data.csv`: This file is for first project.
+- `simulated_5min_data.csv`: This file is for second project.
+- `simulated_daily_data`: This file is for third project.
 
 ## Getting Started
 
@@ -34,10 +36,7 @@ Make sure you have the following Python libraries installed:
 - `seaborn`
 - `nltk` (for sentiment analysis)
 
-Install dependencies using:
-```bash
-pip install -r requirements.txt
-```
+
 
 ### Running the Projects
 
